@@ -7,7 +7,7 @@ Get the project and install dependencies
 
 ```
 git clone https://github.com/jjbandit/excel_react_demo.git
-cd exce_react_demo
+cd excel_react_demo
 npm install
 ```
 
